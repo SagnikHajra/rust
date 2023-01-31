@@ -1,6 +1,6 @@
 pub fn run(){
     // Prints an int
-    let a=10;
+    let a=11;
     let b=3;
     let c=a/b;
     println!("Result = {}", c); 
